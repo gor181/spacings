@@ -1,14 +1,14 @@
 ---
-  title: "3"
-  description: ""
+title: '3'
+description: ""
 ---
 
 ## Insert exercise title here
 
 ```yaml
-type: VideoExercise 
-xp: 50 
-key: acf0a9d6bb   
+type: VideoExercise
+key: acf0a9d6bb
+xp: 50
 ```
 
 `@projector_key`

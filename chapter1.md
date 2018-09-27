@@ -1,17 +1,16 @@
 ---
-  title: "Test"
-  description: "Test"
-  v2: true
-
+title: Test
+description: Test
 ---
+
 ## An exercise title written in sentence case
 
 ```yaml
-type: NormalExercise 
+type: NormalExercise
+key: e277c85ed9
 lang: python
-xp: 100 
+xp: 100
 skills: 2
-key: e277c85ed9   
 ```
 
 This is the assignment text. It should help provide students with the background information needed.
@@ -29,12 +28,11 @@ The instructions that follow should be in bullet point form with clear guidance 
 - Typically one hint per instruction is a sensible amount.
 
 `@pre_exercise_code`
-
 ```{python}
 # Load datasets and packages here.
 ```
-`@sample_code`
 
+`@sample_code`
 ```{python}
 # Your
 # sample
@@ -46,44 +44,27 @@ The instructions that follow should be in bullet point form with clear guidance 
 # with a max
 # of 16 lines.
 ```
-`@solution`
 
+`@solution`
 ```{python}
 # Answer goes here
 # Make sure to match the comments with your sample code
 # to help students see the differences from solution
 # to given.
 ```
-`@sct`
 
+`@sct`
 ```{python}
 # Update this to something more informative.
 success_msg("Some praise! Then reinforce a learning objective from the exercise.")
 ```
 
-
-
-
-
-
 ---
+
 ## Insert exercise title here
 
 ```yaml
-type: MultipleChoiceExercise 
-xp: 50 
-key: 243f470d8f   
+type: MultipleChoiceExercise
+key: 243f470d8f
+xp: 50
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-

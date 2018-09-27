@@ -1,25 +1,11 @@
 ---
-  title: "2"
-  v2: false
-
+title: '2'
 ---
+
 ## Insert exercise title here
 
 ```yaml
-type: MultipleChoiceExercise 
-xp: 50 
-key: 01197ab9b1   
+type: MultipleChoiceExercise
+key: 01197ab9b1
+xp: 50
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
